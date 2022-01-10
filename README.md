@@ -21,7 +21,7 @@
 
 ---
 
-<img align="left" alt="Rohit's GitHub Stats" src="[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitrao11)](https://github.com/rohitrao11/github-readme-stats)" />
+<img align="left" alt="Rohit's GitHub Stats" src="[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitrao11)]" />
 
 [instagram]: https://instagram.com/rohit_rao11
 [github]: https://github.com/rohitrao11
