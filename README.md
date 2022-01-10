@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rohit_rao11 | Instagram" width="22px" src="https://en.wikipedia.org/wiki/Instagram#/media/File:Instagram_logo_2016.svg" />][instagram]
+[<img align="left" alt="rohit_rao11 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
