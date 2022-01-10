@@ -21,7 +21,8 @@
 
 ---
 
-<img align="left" alt="Rohit's GitHub Stats" src="[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitrao11)]" />
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitrao11&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rohit's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrao11&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [instagram]: https://instagram.com/rohit_rao11
 [github]: https://github.com/rohitrao11
