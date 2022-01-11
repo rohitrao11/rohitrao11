@@ -2,8 +2,8 @@
 
 ## I'm a Student!!
 
-- 🌱 I'm currently trying to learn something new
-- 📚 I'm studying at NIT Tiruchirapalli
+- 🌱 Currently trying to learn something new
+- 📚 Studying at NIT Tiruchirapalli
 
 ### Connect with me:
 
@@ -22,7 +22,6 @@
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitrao11&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rohit's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrao11&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
 
 [instagram]: https://instagram.com/rohit_rao11
 [github]: https://github.com/rohitrao11
