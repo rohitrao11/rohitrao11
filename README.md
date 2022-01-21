@@ -26,8 +26,10 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rohitrao11&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrao11&theme=gruvbox&hide_border=true" />
 </p>
-<br>
 
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+</p>
 
 [instagram]: https://instagram.com/rohit_rao11
 [github]: https://github.com/rohitrao11
