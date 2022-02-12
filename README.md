@@ -18,7 +18,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/344/c-programming.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/344/external-html-files-dreamstale-lineal-dreamstale.png" />
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/ios-filled/344/html-5--v1.png" />
 
 <br />
 
