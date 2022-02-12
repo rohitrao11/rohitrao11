@@ -10,6 +10,7 @@
 <a href="https://instagram.com/rohit_rao11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_rao11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/CS24_099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CS24_099" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitrao_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrao_11" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@CS24_099" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="rohitrao_11" height="30" width="40" /></a>
 
 ### Languages and Tools:
 
