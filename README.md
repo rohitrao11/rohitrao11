@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=Looks+like+you+have+reached+the+right+place)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Looks+like+you+have+reached+the+right+place)](https://git.io/typing-svg)
 
 ### Hi there, I'm Rohit L Rao 🙋‍♂️
 
