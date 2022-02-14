@@ -1,5 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=Arrived+at+your+destination)](https://git.io/typing-svg)
-### Hi there, I'm Rohit L Rao 🙋‍♂️
+
+# Hi there, I'm Rohit L Rao 🙋‍♂️
 
 ## I'm a Student!!
 
