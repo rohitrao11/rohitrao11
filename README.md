@@ -1,5 +1,9 @@
 ### Hi there, I'm Rohit L Rao 🙋‍♂️
 
+---
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+Code)](https://git.io/typing-svg)
+---
+
 ## I'm a Student!!
 
 - 🌱 Currently trying to learn something new
