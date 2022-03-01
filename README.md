@@ -13,6 +13,7 @@
 <a href="https://www.hackerrank.com/CS24_099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CS24_099" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitrao_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrao_11" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@CS24_099" target="blank"><img align="center" src="https://www.svgrepo.com/show/306170/hackerearth.svg" alt="rohitrao_11" height="30" width="40" /></a>
+<a href="https://www.wwe.com/f/styles/gallery_img_l/public/photo/image/2012/10/PWI_048.jpg" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="rohitrao_11" height="30" width="40" /></a>
 
 ### Languages and Tools:
 
