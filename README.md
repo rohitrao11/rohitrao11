@@ -13,7 +13,7 @@
 <a href="https://www.hackerrank.com/CS24_099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CS24_099" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitrao_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrao_11" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@CS24_099" target="blank"><img align="center" src="https://www.svgrepo.com/show/306170/hackerearth.svg" alt="rohitrao_11" height="30" width="40" /></a>
-<a href="https://i.ytimg.com/vi/Zfc0_UB1t0I/hqdefault.jpg" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="rohitrao_11" height="30" width="30" /></a>
+<a href="https://images.unsplash.com/photo-1572453020814-972b244074d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2NhcnklMjBjbG93bnxlbnwwfHwwfHw%3D&w=1000&q=80" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="rohitrao_11" height="30" width="30" /></a>
 
 ### Languages and Tools:
 
