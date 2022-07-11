@@ -9,12 +9,12 @@
 
 ### Connect with me:
 
+<a href="https://www.linkedin.com/in/rohit-l-rao-a5b849233/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/linkedin-2752135-2284952.png" alt="rohit_rao11" height="30" width="30" /></a>
 <a href="https://instagram.com/rohit_rao11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_rao11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/CS24_099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CS24_099" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitrao_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrao_11" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@CS24_099" target="blank"><img align="center" src="https://www.svgrepo.com/show/306170/hackerearth.svg" alt="rohitrao_11" height="30" width="40" /></a>
 <a href="https://images.unsplash.com/photo-1502488207239-dcf4114041cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c2NhcnklMjBjbG93bnxlbnwwfHwwfHw%3D&w=1000&q=80" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="rohitrao_11" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/rohit-l-rao-a5b849233/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/linkedin-2752135-2284952.png" alt="rohit_rao11" height="30" width="30" /></a>
 
 ### Languages and Tools:
 
