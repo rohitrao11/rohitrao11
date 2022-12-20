@@ -32,7 +32,7 @@
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats-wi25.vercel.app/api?username=rohitrao11&show_icons=true&theme=transparent&hide_border=true" />
-  <img height= "150" src="https://github-readme-stats-wi25.vercel.app/api/top-langs/?username=rohitrao11&theme=transparent&layout=compact" />
+  <img width= "49.5%" src="https://github-readme-stats-wi25.vercel.app/api/top-langs/?username=rohitrao11&theme=transparent&layout=compact" />
 </p>
 
 <p align= "center">
