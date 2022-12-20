@@ -36,7 +36,7 @@
 </p>
 
 <p align= "center">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrao11&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrao11&theme=tokyonight&hide_border=true" />
 </p>
 
 [github]: https://github.com/rohitrao11
