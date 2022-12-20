@@ -32,11 +32,11 @@
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats-wi25.vercel.app/api?username=rohitrao11&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrao11&theme=transparent&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats-wi25.vercel.app/api/top-langs/?username=rohitrao11&theme=transparent&layout=compact&hide_border=true" />
 </p>
 
 <p align= "center">
-  <img width="49.5%" src="https://github-readme-stats-wi25.vercel.app/api/top-langs/?username=rohitrao11&theme=transparent&layout=compact&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrao11&theme=gruvbox&hide_border=true" />
 </p>
 
 [github]: https://github.com/rohitrao11
