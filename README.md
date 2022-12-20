@@ -39,10 +39,11 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrao11&theme=react&layout=compact" />
 </p>
 
-<p align="center">
+<div>
   <a href="https://github.com/rohitrao11">
+</div>
+
+<p align="center">
+  ![Profile views](https://gpvc.arturio.dev/rohitrao11)  
 </p>
-
-![Profile views](https://gpvc.arturio.dev/rohitrao11)  
-
 [github]: https://github.com/rohitrao11
