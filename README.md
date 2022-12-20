@@ -35,6 +35,11 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrao11&theme=gruvbox&hide_border=true" />
 </p>
 
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats-wi25.vercel.app/api?username=rohitrao11&repo=github-readme-stats" />
+  <img width="49.5%" src="https://github-readme-stats-wi25.vercel.app/api?username=rohitrao11" />
+</p>
+
 <p align= "center">
   <img height= "150" src="https://github-readme-stats-wi25.vercel.app/api/top-langs/?username=rohitrao11&theme=react&layout=compact" />
 </p>
