@@ -39,5 +39,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrao11&theme=react&layout=compact" />
 </p>
 
+<p align="center">
+  ![Profile views](https://gpvc.arturio.dev/vivekweb2013) 
+</p>
 
 [github]: https://github.com/rohitrao11
