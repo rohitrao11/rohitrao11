@@ -40,9 +40,7 @@
 </p>
 
 <p align="center">
-  <div>
-    <a href="https://github.com/rohitrao11">
-  </div>
+  <a href="https://github.com/rohitrao11">
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/rohitrao11)  
