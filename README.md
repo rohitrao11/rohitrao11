@@ -37,7 +37,7 @@
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats-wi25.vercel.app/api?username=rohitrao11&repo=github-readme-stats" />
-  <img width="49.5%" src="https://https://github-readme-stats-wi25-git-master-rohitrao11.vercel.app/api?username=rohitrao11&show_icons=true&theme=gradient&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats-wi25-git-master-rohitrao11.vercel.app/api?username=rohitrao11&show_icons=true&theme=gradient&hide_border=true" />
 </p>
 
 <p align= "center">
