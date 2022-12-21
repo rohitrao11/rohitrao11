@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/rohit-l-rao-a5b849233/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/linkedin-2752135-2284952.png" alt="rohit_rao11" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/rohitrao11/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/linkedin-2752135-2284952.png" alt="rohit_rao11" height="30" width="30" /></a>
 <a href="https://instagram.com/rohit_rao11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_rao11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rohitrao_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CS24_099" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitrao_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrao_11" height="30" width="40" /></a>
