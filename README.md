@@ -28,7 +28,7 @@
 
 <br />
 
-## My Statistics Hello
+## My Statistics
 
 <br/>
 <p align="left">
